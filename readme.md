@@ -60,4 +60,4 @@ For inquiries, suggestions, or issues relating to the plugin, please reach out t
 
 ## License
 
-PHP String Finder is licensed under GPL-2.0. For more details, please refer to the LICENSE.txt file included with the project.
+PHP String Finder is licensed under GPL-2.0.
